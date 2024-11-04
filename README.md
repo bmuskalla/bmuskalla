@@ -1,6 +1,6 @@
 ### Hi there, I'm Benny 👋
 
-- 🔭 I’m currently working at :octocat: on Copilot for Visual Studio Code and IntelliJ
+- 🔭 I’m currently working at [poolside](https://poolside.ai/)
 - 🌱 I sometimes [blog about stuff](https://bmuskalla.github.io/blog/)
 - 👯 I’m looking to collaborate on building things to make our craft more accessible
 - 💬 Ask me about APIs, TDD and SDKs
